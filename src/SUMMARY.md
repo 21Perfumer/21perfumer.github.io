@@ -27,4 +27,5 @@
 
 ---
 
+[札记-编者阅](./contribute.md)
 [札记-末](./contributors.md)
