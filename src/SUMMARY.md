@@ -8,6 +8,7 @@
 # 后端手册
 
 - [设计](./backend/design.md)
+  - [处理管线](./backend/design/pipeline.md)
 - [认证](./backend/verification.md)
 - [端点](./backend/endpoints.md)
   - [认证](./backend/endpoints/verification.md)
