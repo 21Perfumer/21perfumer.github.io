@@ -1,6 +1,7 @@
 # Summary
 
 [调香献礼](./README.md)
+[约定](./common.md)
 
 ---
 
